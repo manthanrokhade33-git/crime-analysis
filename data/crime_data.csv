@@ -1,0 +1,31 @@
+Crime_ID,Date,Crime_Type,City,Location,Victim_Age,Victim_Gender,Weapon,Status
+CR001,2025-01-05,Theft,Bengaluru,Indiranagar,24,Male,None,Closed
+CR002,2025-01-12,Robbery,Bengaluru,Whitefield,31,Female,Knife,Open
+CR003,2025-01-18,Assault,Davangere,PB Road,27,Male,Unknown,Closed
+CR004,2025-02-03,Cyber Crime,Mysuru,Vijayanagar,22,Female,None,Open
+CR005,2025-02-11,Burglary,Belagavi,Tilakwadi,45,Male,None,Closed
+CR006,2025-02-19,Theft,Davangere,Hadadi Road,19,Female,None,Closed
+CR007,2025-03-02,Assault,Bengaluru,Koramangala,35,Male,Knife,Open
+CR008,2025-03-10,Cyber Crime,Bengaluru,Electronic City,29,Female,None,Closed
+CR009,2025-03-21,Robbery,Mysuru,Hebbal,41,Male,Knife,Open
+CR010,2025-04-04,Theft,Belagavi,Shahapur,26,Female,None,Closed
+CR011,2025-04-15,Burglary,Davangere,VIDYAGIRI,52,Male,None,Open
+CR012,2025-04-27,Cyber Crime,Bengaluru,Marathahalli,23,Female,None,Closed
+CR013,2025-05-06,Assault,Mysuru,Kuvempunagar,38,Male,Stick,Closed
+CR014,2025-05-18,Theft,Davangere,PB Road,21,Male,None,Open
+CR015,2025-06-01,Robbery,Bengaluru,Yeshwanthpur,33,Female,Knife,Closed
+CR016,2025-06-13,Cyber Crime,Belagavi,Basavan Galli,28,Male,None,Open
+CR017,2025-07-02,Theft,Mysuru,Vijayanagar,30,Female,None,Closed
+CR018,2025-07-16,Burglary,Bengaluru,HSR Layout,47,Male,None,Open
+CR019,2025-08-03,Assault,Davangere,SS Layout,25,Female,Stick,Closed
+CR020,2025-08-22,Cyber Crime,Bengaluru,Indiranagar,20,Male,None,Open
+CR021,2025-09-07,Theft,Belagavi,Tilakwadi,34,Female,None,Closed
+CR022,2025-09-19,Robbery,Davangere,Hadadi Road,39,Male,Knife,Open
+CR023,2025-10-05,Assault,Bengaluru,Koramangala,32,Female,Unknown,Closed
+CR024,2025-10-17,Cyber Crime,Mysuru,Vijayanagar,26,Male,None,Open
+CR025,2025-11-04,Burglary,Belagavi,Shahapur,49,Female,None,Closed
+CR026,2025-11-16,Theft,Davangere,VIDYAGIRI,23,Male,None,Closed
+CR027,2025-12-02,Robbery,Bengaluru,Whitefield,37,Female,Knife,Open
+CR028,2025-12-18,Cyber Crime,Bengaluru,Electronic City,21,Male,None,Closed
+CR029,2025-12-24,Assault,Mysuru,Hebbal,44,Female,Stick,Open
+CR030,2025-12-29,Theft,Bengaluru,Marathahalli,28,Male,None,Closed
